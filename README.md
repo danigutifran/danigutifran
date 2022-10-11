@@ -8,7 +8,9 @@
 ⚡ Fun fact: I'm also a streamer :P<br>
  <hr>
 🔥HOT LINKS<br>
-🐣 https://twitter.com/danixiloplay<br>
-👨‍💼 www.linkedin.com/in/danigutifran<br>
-🔴 https://www.twitch.tv/danixiloplay<br>
+<ul>
+  <li>🐣 https://twitter.com/danixiloplay<br>
+  <li>👨‍💼 www.linkedin.com/in/danigutifran<br>
+  <li>🔴 https://www.twitch.tv/danixiloplay<br>
+</ul>
 </p>
