@@ -13,7 +13,7 @@
 <h3>🔥HOT LINKS</h3><br>
   
 <ul>
-  <li>🐣 https://twitter.com/danixiloplay<br>
+  <li>🐥 https://twitter.com/danixiloplay<br>
   <li>👨‍💼 www.linkedin.com/in/danigutifran<br>
   <li>🔴 https://www.twitch.tv/danixiloplay<br>
 </ul>
