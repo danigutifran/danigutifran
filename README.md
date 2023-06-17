@@ -18,3 +18,5 @@
   <li>🔴 https://www.twitch.tv/danixiloplay<br>
 </ul>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danigutifran)](https://github.com/anuraghazra/github-readme-stats)
