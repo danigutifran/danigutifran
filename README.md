@@ -18,5 +18,8 @@
   <li>🔴 https://www.twitch.tv/danixiloplay<br>
 </ul>
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danigutifran&show_icons=true&theme=dracula)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danigutifran)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danigutifran&hide_progress=true)
+
